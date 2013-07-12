@@ -1,0 +1,5 @@
+markdown: rdiscount
+pygments: true
+permalink: /:title.html
+name: "sophiayin的笔记"
+markdown: rdiscount
